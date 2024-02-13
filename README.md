@@ -1,2 +1,2 @@
 # 2048_game
-easy console game for c++ learners out there
+easy console game for C++ learners out there
